@@ -10,11 +10,11 @@ Também delete esta sessão de instruções e modifique a primeira linha trocand
 
 ## Sobre
 
-Aqui você pode contar coisas que queira compartilhar sobre você, você pode dar destaque usando **negrito** ou *itálico*, listas sempre são úteis nesse momento:
+Rocky é uma **UX Designer** com fome. Ainda não está participando desta edição do *Hackgrrrl*, mas espera a próxima oportunidade.
 
-- Curso / Faculdade
-- Áreas de interesse
-- Hobbies
+- Bacharelado em Sistemas de Informação / UFRPE
+- Interessada em Human Computer Interection Design
+- Louca dos gatos e goumertização.
 
 ## Projetos
 
