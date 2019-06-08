@@ -30,7 +30,7 @@ Você também pode adicionar [links](https://github.com/hackgrrrl) para abrir ou
 
 Você também pode colocar imagens 
 
-![alt text](http://pudim.com.br/pudim.jpg "Pudim")
+![alt text](assets\images\grumpycat\"Pudim")
 
 # Valeu
 
